@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Created by [Calestial Ashley](https://github.com/CalestialAshley35).
 
-For any questions or feedback, you can reach me at [Calestial Ashley Github](mailto:calestialashley@gmail.com).
+For any questions or feedback, you can reach me at [Calestial Ashley Email](mailto:calestialashley@gmail.com).
 
 ---
 
